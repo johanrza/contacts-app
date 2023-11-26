@@ -1,5 +1,6 @@
 import React from 'react';
 
+// parent ContactItem
 function ContactItemBody({ name, tag }) {
   return (
     <div className="contact-item__body">

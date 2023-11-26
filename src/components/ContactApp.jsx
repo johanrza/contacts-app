@@ -19,6 +19,7 @@ class ContactApp extends React.Component {
 
   render() {
     return (
+      // punya child
       <div className="contact-app">
         <h1>Daftar Kontak</h1>
         <ContactList contacts={this.state.contacts} onDelete={this.onDeleteHandler} />
