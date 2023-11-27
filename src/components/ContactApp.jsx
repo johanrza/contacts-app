@@ -29,7 +29,7 @@ class ContactApp extends React.Component {
             id: +new Date(),
             name,
             tag,
-            imageUrl: '/images/default.jpg', // diberi scr manual
+            imageUrl: '/images/default.png', // diberi scr manual
           },
         ],
       };

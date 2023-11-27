@@ -38,7 +38,9 @@ img {
 
 .contact-item__image img {
   width: 64px;
+  height: 64px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .contact-item__body {
